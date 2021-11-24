@@ -1,0 +1,23 @@
+{
+  "name": "exercicio-cypress-igor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorfeijao/exercicio-cypress-igor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorfeijao/exercicio-cypress-igor/issues"
+  },
+  "homepage": "https://github.com/igorfeijao/exercicio-cypress-igor#readme",
+  "devDependencies": {
+    "cypress": "^9.1.0"
+  }
+}
